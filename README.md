@@ -13,15 +13,15 @@ Just open With Live Server
 
 This Project consist Of 3 Major Parts
 
-#1.Html
+# 1.Html
 This Provides Complete Body Of the age calculator
 (intex.html)
 
-#Css
+# 2.Css
 This provides Complete Style Of the Age Calculator
 (Style.css)
 
-#JavaScript
+# 3.JavaScript
 This Is Brain Of Age Calculator 
 This Tells How To calculate The age by Provideing Date Of Birth.
 
