@@ -26,5 +26,5 @@ This Is Brain Of Age Calculator
 This Tells How To calculate The age by Provideing Date Of Birth.
 
 Purpose :
-To make practise in Webdevelpoment 
-To learn More New Things
+1.To make practise in Webdevelpoment 
+2.To learn More New Things
